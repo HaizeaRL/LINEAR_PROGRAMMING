@@ -12,11 +12,11 @@ This repository includes problem definitions, constraints, objective functions, 
 
 - **Bin Packing Problem**: Given `n` items with weights `w1, w2, ..., wn` and an arbitrary number of bins with a maximum carry weight `C`, determine the **minimum number of bins** required to contain all the items without exceeding their weight capacity.
 
-- **Farmer's Problem**:Given `3 tons of potato` seeds, `4 tons of carrot` seeds, and `5 tons of fertilizer`, where planting requires a `1:1 ratio` of seeds to fertilizer, determine the **optimal amount of potatoes and carrots to plant** to maximize profit, given that potatoes yield `$1.2/kg` and carrots yield `$1.7/kg`.
+- **Farmer's Problem**: Given `3 tons of potato` seeds, `4 tons of carrot` seeds, and `5 tons of fertilizer`, where planting requires a `1:1 ratio` of seeds to fertilizer, determine the **optimal amount of potatoes and carrots to plant** to maximize profit, given that potatoes yield `$1.2/kg` and carrots yield `$1.7/kg`.
 
 - **Knapsack Problem**: Given `n items`, each with a specific `weight` and `price`, determine the **maximum total price** of items that can be placed in a backpack without exceeding its carry weight of `M`.
 
-- **Partition Problem**: - **Partition Problem**: Given `n` items with weights, determine how to **split them into two parts** such that the **difference in their total weights** is minimized.  
+- **Partition Problem**: Given `n` items with weights, determine how to **split them into two parts** such that the **difference in their total weights** is minimized.  
 
 - **Vertex K-Coloring Problem**: Given a graph `G`, determine the **minimum k** for which the graph is **vertex-k-colorable**, meaning no two adjacent vertices share the same color.  
 
