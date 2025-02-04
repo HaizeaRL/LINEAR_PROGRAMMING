@@ -12,6 +12,8 @@ This repository includes problem definitions, constraints, objective functions, 
 
 - **Bin Packing Problem**: Given `n` items with weights `w1, w2, ..., wn` and an arbitrary number of bins with a maximum carry weight `C`, determine the **minimum number of bins** required to contain all the items without exceeding their weight capacity.
 
+- **Bipartite Maximum Perfect Matching Problem**: Given an undirected bipartite graph where nodes represent `people` and `jobs`, and `weighted edges` indicate how well a person is suited for a job, determine the **most suitable person - job match**, ensuring each person is assigned to exactly one job in the most optimal way.    
+ 
 - **Farmer's Problem**: Given `3 tons of potato` seeds, `4 tons of carrot` seeds, and `5 tons of fertilizer`, where planting requires a `1:1 ratio` of seeds to fertilizer, determine the **optimal amount of potatoes and carrots to plant** to maximize profit, given that potatoes yield `$1.2/kg` and carrots yield `$1.7/kg`.
 
 - **Knapsack Problem**: Given `n items`, each with a specific `weight` and `price`, determine the **maximum total price** of items that can be placed in a backpack without exceeding its carry weight of `M`.
